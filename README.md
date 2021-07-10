@@ -1,2 +1,2 @@
-# c33
-made by dhruv gupta
+# C-33-Project-Plinko-with-Scores
+Padmapriya LD 
